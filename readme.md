@@ -1,11 +1,9 @@
-# Automatically created by: scrapy startproject
-#
-# For more information about the [deploy] section see:
-# https://scrapyd.readthedocs.io/en/latest/deploy.html
+# API爬虫
 
-[settings]
-default = linuxApi.settings
+[LinuxGNUApiSpider](http://www.gnu.org/software/libc/manual/html_node/Function-Index.html)
 
-[deploy]
-#url = http://localhost:6800/
-project = linuxApi
+[LinuxKernalApiSpider](https://www.kernel.org/doc/htmldocs/kernel-api/)
+
+[StlApiSpider](http://www.cplusplus.com/reference/)
+
+[WinApiSpider](https://docs.microsoft.com/zh-cn/previous-versions/windows/dn424765(v=win.10))
